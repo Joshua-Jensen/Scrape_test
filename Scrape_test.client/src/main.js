@@ -5,9 +5,9 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import { registerGlobalComponents } from './registerGlobalComponents'
 import { router } from './router'
-import { worker } from './mocks/browser'
+// import { worker } from './mocks/browser'
 
-worker.start()
+// worker.start()
 
 
 // create a new XHR object
