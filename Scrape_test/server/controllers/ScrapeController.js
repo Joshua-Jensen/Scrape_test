@@ -1,4 +1,4 @@
-import { scrapeService } from "../services/ScrapeService.js";
+// import { scrapeService } from "../services/ScrapeService.js";
 import BaseController from "../utils/BaseController.js";
 
 export class ScrapeController extends BaseController {
